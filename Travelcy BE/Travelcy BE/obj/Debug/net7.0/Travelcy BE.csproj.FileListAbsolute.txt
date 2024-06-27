@@ -1,0 +1,36 @@
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\Travelcy BE.csproj.AssemblyReference.cache
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\Travelcy BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\Travelcy BE.AssemblyInfoInputs.cache
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\Travelcy BE.AssemblyInfo.cs
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\Travelcy BE.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\Travelcy BE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\Travelcy BE.sourcelink.json
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\appsettings.json
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\Travelcy BE.exe
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\Travelcy BE.deps.json
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\Travelcy BE.runtimeconfig.json
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\Travelcy BE.dll
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\Travelcy BE.pdb
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\Travelcy.App.dll
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\bin\Debug\net7.0\Travelcy.App.pdb
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\staticwebassets\msbuild.Travelcy BE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\staticwebassets\msbuild.build.Travelcy BE.props
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Travelcy BE.props
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Travelcy BE.props
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\scopedcss\bundle\Travelcy BE.styles.css
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\Travelcy BE.csproj.CopyComplete
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\Travelcy BE.dll
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\refint\Travelcy BE.dll
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\Travelcy BE.pdb
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\Travelcy BE.genruntimeconfig.cache
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy BE\obj\Debug\net7.0\ref\Travelcy BE.dll

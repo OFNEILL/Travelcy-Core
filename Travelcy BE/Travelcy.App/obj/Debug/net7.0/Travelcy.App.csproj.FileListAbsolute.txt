@@ -1,0 +1,13 @@
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy.App\obj\Debug\net7.0\Travelcy.App.csproj.AssemblyReference.cache
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy.App\obj\Debug\net7.0\Travelcy.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy.App\obj\Debug\net7.0\Travelcy.App.AssemblyInfoInputs.cache
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy.App\obj\Debug\net7.0\Travelcy.App.AssemblyInfo.cs
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy.App\obj\Debug\net7.0\Travelcy.App.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy.App\obj\Debug\net7.0\Travelcy.App.sourcelink.json
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy.App\bin\Debug\net7.0\Travelcy.App.deps.json
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy.App\bin\Debug\net7.0\Travelcy.App.dll
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy.App\bin\Debug\net7.0\Travelcy.App.pdb
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy.App\obj\Debug\net7.0\Travelcy.App.dll
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy.App\obj\Debug\net7.0\refint\Travelcy.App.dll
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy.App\obj\Debug\net7.0\Travelcy.App.pdb
+C:\Users\Joseph\source\repos\Travelcy BE\Travelcy.App\obj\Debug\net7.0\ref\Travelcy.App.dll
